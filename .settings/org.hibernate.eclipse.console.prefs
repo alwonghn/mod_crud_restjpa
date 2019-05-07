@@ -1,0 +1,3 @@
+default.configuration=mod_crud_restjpa
+eclipse.preferences.version=1
+hibernate3.enabled=true

@@ -1,6 +1,6 @@
 package com.demo.bean;
 
-public class Login {
+public class EmpForm {
 	private String username;
 	private String role;
 	private String password;
